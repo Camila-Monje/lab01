@@ -1,6 +1,7 @@
 
 #ejercicio 1
 #prueba
+#otro
 n = int(input("¿Cuántos números quieres sumar?: "))
 total = 0
 
